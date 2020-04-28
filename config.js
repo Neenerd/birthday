@@ -28,7 +28,7 @@ var config = {
     desc: {
         turn_on: "Click me!!!",
         play: "Click me for music!",
-        bannar_coming: "Next!",
+        bannar_coming: "Surprise～!",
         balloons_flying: "It seems like we are missing something....",
         cake_fadein: "A cake？",
         light_candle: "Light the candles？",
